@@ -48,6 +48,3 @@ totalMicroseconds = delta.seconds*1000000 + delta.microseconds
 
 print(totalMicroseconds)
 # about 412_947 microseconds
-
-
-Try it in Playground
