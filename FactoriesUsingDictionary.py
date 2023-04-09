@@ -32,4 +32,4 @@ class Factory(object):
 
 
 # Usage
-class_ = Factory.get("SubjectOne"
+class_ = Factory.get("SubjectOne")
